@@ -1,0 +1,10 @@
+.idea
+CMakeLists.txt
+cmake-build-debug
+Doxyfile
+izgProject_linux.bin
+izgProject_windows.exe
+start_here.html
+merlinCompilationTest.sh
+doc/
+build/
